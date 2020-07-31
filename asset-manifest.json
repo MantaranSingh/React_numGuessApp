@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React_numGuessApp/static/css/main.6e2e996a.chunk.css",
+    "main.js": "/React_numGuessApp/static/js/main.1378b1f1.chunk.js",
+    "main.js.map": "/React_numGuessApp/static/js/main.1378b1f1.chunk.js.map",
+    "runtime-main.js": "/React_numGuessApp/static/js/runtime-main.5fef836b.js",
+    "runtime-main.js.map": "/React_numGuessApp/static/js/runtime-main.5fef836b.js.map",
+    "static/js/2.9f4db709.chunk.js": "/React_numGuessApp/static/js/2.9f4db709.chunk.js",
+    "static/js/2.9f4db709.chunk.js.map": "/React_numGuessApp/static/js/2.9f4db709.chunk.js.map",
+    "index.html": "/React_numGuessApp/index.html",
+    "precache-manifest.b88159d769e82aac691b0e7e13bf66bc.js": "/React_numGuessApp/precache-manifest.b88159d769e82aac691b0e7e13bf66bc.js",
+    "service-worker.js": "/React_numGuessApp/service-worker.js",
+    "static/css/main.6e2e996a.chunk.css.map": "/React_numGuessApp/static/css/main.6e2e996a.chunk.css.map",
+    "static/js/2.9f4db709.chunk.js.LICENSE.txt": "/React_numGuessApp/static/js/2.9f4db709.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fef836b.js",
+    "static/js/2.9f4db709.chunk.js",
+    "static/css/main.6e2e996a.chunk.css",
+    "static/js/main.1378b1f1.chunk.js"
+  ]
+}
