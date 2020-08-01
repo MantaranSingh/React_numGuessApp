@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/React_numGuessApp/precache-manifest.b88159d769e82aac691b0e7e13bf66bc.js"
+  "/React_numGuessApp/precache-manifest.3ed8427f33b50e4afd2b3096b5905baa.js"
 );
 
 self.addEventListener('message', (event) => {
