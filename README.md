@@ -10,4 +10,6 @@ generated and the user’s input.
 3. The user is allowed to make any number of guesses, until he finds the correct
 answer.
 
+<a href="https://mantaransingh.github.io/React_numGuessApp/">Link to the Project</a>
+
 <img src="images/RctGusApp.PNG"></img>
