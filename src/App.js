@@ -54,7 +54,7 @@ class App extends Component {
     }
   }
   componentDidMount() {
-     console.log('Value of generated random number', this.state.answer) 
+    console.log('Value of generated random number', this.state.answer)
   }
   render() {
 
@@ -69,7 +69,6 @@ class App extends Component {
           <h2 className='feedback' style={background}>{this.state.responseText}</h2>
         </div>
         <Form userInput={value => this.updateState(value)} />
-        {/* {console.log('Value of generated random number',this.state.answer)} */}
       </div>
     );
   }
